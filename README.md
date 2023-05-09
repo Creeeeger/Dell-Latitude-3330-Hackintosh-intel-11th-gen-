@@ -15,7 +15,7 @@ Screen Brightness (change it over the bios)
 
 Airdrop (But Bluetooth works for audio)
 
-#Instalation
+# Instalation
 
 Normal mackintosh install replace the EFI with this one.
 Turn secure boot off and on demand TPM2
