@@ -1,21 +1,18 @@
 # Hackintosh-Latitude-3330
-Hackintosh project for the Dell Latitude 3330 Laptop
+Hackintosh project for the Dell Latitude 3330 Laptop probably it works with all intel 11th gen cpus
 
 What doesnt work...
 
 3D Accelleration
 
-
-Microphone (gets recognised and displayed but no input)
-AirPods probably work
-
-
-Screen Brightness (change it over the bios)
-
-
-Airdrop (But Bluetooth works for audio)
+Airdrop
 
 # Instalation
 
 Normal mackintosh install replace the EFI with this one.
 Turn secure boot off and on demand TPM2
+
+
+# Troubleshoot
+For Microphone use BT headphones 
+For screenbrightness install Brightness Slider from the app store
