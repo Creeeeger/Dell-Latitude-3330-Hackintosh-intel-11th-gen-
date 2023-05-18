@@ -1,6 +1,8 @@
 # Hackintosh-Latitude-3330
 Hackintosh project for the Dell Latitude 3330. 
 
+Based on OpenCore 0.9.2
+
 # What doesnt work...
 
 - [x] 3D Accelleration
