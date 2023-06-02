@@ -5,17 +5,16 @@ Based on OpenCore 0.9.2
 
 # What doesnt work...
 
-- [x] 3D Accelleration
-- [x] Hardware Acceleration
-- [x] Airdrop
-- [x] Microphone input
-- [x] Trackpad Gestures
+- [ ] 3D Accelleration
+- [ ] Hardware Acceleration
+- [ ] Airdrop
+- [ ] Microphone input
+- [ ] Trackpad Gestures
+- [ ] sleeping mode
 
 ## What's Working...
-- [x] 
-- [x] 
-- [x] 
-
+- [x] Basicly the rest. I haven't found out more yet.
+- If you found something let me know it in the issues section
 
 # Instalation
 
